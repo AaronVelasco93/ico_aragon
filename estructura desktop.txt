@@ -1,0 +1,26 @@
+<!-- mapa curricular desktop -->
+  <!-- ocultar en small -->
+    <!-- Informacion -->
+    <!-- /Informacion -->
+    <!-- Semestres -->
+      <div class="container">
+        <div class="row">
+          
+        </div>
+      </div>
+    <!-- /Semestres -->
+
+    <!-- Optativas -->
+      <!-- Informacion -->
+      <!-- /Informacion -->
+
+      <!-- Semestres Optativas -->
+        <div class="container">
+          <div class="row">
+          
+          </div>
+        </div>
+      <!-- Semestres Optativas -->
+    <!-- /Optativas -->
+  <!-- /ocultar en small -->
+<!-- /mapa curricular desktop -->
